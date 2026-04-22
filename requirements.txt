@@ -1,0 +1,16 @@
+numpy>=1.17.2
+torch>=1.7.0
+scipy>=1.3.1
+pandas>=1.0.5
+tqdm>=4.48.2
+scikit-learn>=0.23.1
+pyyaml>=5.1.0
+tensorboard>=2.5.0
+matplotlib>=3.1.3
+colorlog==4.7.2
+colorama==0.4.4
+hyperopt==0.2.5
+
+# LLM embedding generation (optional, only needed for tools/)
+# transformers>=4.37.0
+# accelerate>=0.25.0
